@@ -1,0 +1,3 @@
+eggs
+meat
+chicken
