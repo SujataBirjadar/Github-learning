@@ -1,3 +1,6 @@
 eggs
 meat
 chicken
+apple
+orange
+tomato
